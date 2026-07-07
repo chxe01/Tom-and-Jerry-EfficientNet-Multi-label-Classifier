@@ -1,0 +1,5 @@
+.matplotlib_cache
+tom_and_jerry
+challenges.csv
+efficientnet_b0_tom_jerry_best.pt
+ground_truth.csv
