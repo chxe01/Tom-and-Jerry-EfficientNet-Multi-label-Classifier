@@ -1,6 +1,7 @@
 ## Tom and Jerry Multi-Label Classifier
 
 EfficientNet-B0-based Multi-Label Image Classification Model
+
 EfficientNet-B0 기반 멀티라벨 이미지 분류 모델
 
 
